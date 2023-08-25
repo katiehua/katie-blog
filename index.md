@@ -3,13 +3,23 @@ layout: default
 title: Student Blog
 ---
 
+# Katie's Page
+Welcome to my blog! This page is dedicated to letting you know a bit more about me.
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+## About Me
+- Hi! My name is Katie. 😄
+- I am a current junior at Del Norte High School.
+- I am very interested in the field of STEM
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+## My Trimester 1 Class Schedule
+| Period - Class |
+| 1 - AP English Language |
+| 2 - Bridge/AP Calculus BC  Seminar |
+| 3 - AP Chemistry |
+| 4 - AP Computer Science Principles |
+| 5 - Off roll |
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+
+<img src="./images/freeform_drawing.jpg" alt="freeform about me drawing" style="float:left;width:349.25px;height:479.5px;">
+
+<p> <font size="3"> I was born in the year 2007, which according to the Chinese Zodiac calendar is the year of the pig. In fact, 2007 was actually the year of the golden pig which is a special year and people born in the year of the golden pig are believed to have good fortune. Also, I am the oldest of 11 cousins on my mom's side we often all get together at least several times a month as well as go on camping trips together during the holidays. I have lived in San Diego for my whole life but I also enjoy traveling and seeing new places. Additionally, I play volleyball, enjoy looking at the sunset, and love boba and ice cream. I am really passionate about STEM and the fields of biology, medicine, and computer science really interest me. </font></p>
